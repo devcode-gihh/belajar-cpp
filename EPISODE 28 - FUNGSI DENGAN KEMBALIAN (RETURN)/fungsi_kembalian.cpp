@@ -24,14 +24,14 @@ int main() {
   cout <<  "Masukan nilai b: ";
   cin >> b;
   
-  hasil2 = penjumlahan(a, b);
+  hasil = penjumlahan(a, b);
   cout << "Nilai penjumlahan dari " << a << " + " << b << " = " << hasil << endl;
   
   cout << "--- PEMAKAIAN FUNGSI KUADRAT ---" << endl;
   cout << "Masukan nilai kuadrat: ";
   cin >> input;
   
-  hasil = kuadrat(input);
+  hasil2 = kuadrat(input);
   cout << "Nilai kuadrat dari " << input << " = " << hasil2 << endl;
 
   cin.get();
