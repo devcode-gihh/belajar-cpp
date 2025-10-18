@@ -18,7 +18,7 @@ int kuadrat(int x) {
 
 int main() {
   int a, b, hasil, input, hasil2;
-    cout << "--- PEMAKAIAN FUNGSI PENJUMLAHAN ---" << endl;
+  cout << "--- PEMAKAIAN FUNGSI PENJUMLAHAN ---" << endl;
   cout <<  "Masukan nilai a: ";
   cin >> a;
   cout <<  "Masukan nilai b: ";
